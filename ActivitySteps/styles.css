@@ -1,7 +1,23 @@
+/*Adding stuff here will style the web page*/
+
+/*we are grabbing the element labeled my-name in the html*/
 .my-name {
+	/*we are setting the text to alin to the right like you normally read a book*/
 	text-align: right;
+	/*We are making the font super big!*/
+	font-size: xx-large;
 }
 
+/*we are grabbing the element labeled favorite animal in the html*/
 .favorite-animal {
+	/*we are setting the text to alin to in the center like a title*/
 	text-align: center;
+	/*We are setting the color of the text to Orange to match the color of a tiger.🐯*/
+	color: orange;
+}
+
+/*we are grabbing the whole body element in the html*/
+body {
+	/*We are setting the background color of the whole website to blue violet*/
+	background-color: blueviolet;
 }
